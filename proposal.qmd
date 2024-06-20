@@ -1,8 +1,21 @@
 ---
 title: "Proposal title"
 subtitle: "Proposal"
-format: html
+author: 
+  - name: "Team Name"
+    affiliations:
+      - name: "School of Information, University of Arizona"
+description: "Project description"
+format:
+  html:
+    code-tools: true
+    code-overflow: wrap
+    code-line-numbers: true
+    embed-resources: true
 editor: visual
+code-annotations: hover
+execute:
+  warning: false
 ---
 
 ```{r}
